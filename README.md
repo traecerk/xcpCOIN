@@ -1,1 +1,2 @@
 # xcpCOIN
+![pic](itbegins.jpg)
